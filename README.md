@@ -102,6 +102,8 @@ socramazibi: pruebas de la aplicación, sugerencias y mejoras en la interfaz y f
 <img width="793" height="521" alt="imagen" src="https://github.com/user-attachments/assets/141bb59d-fd0b-4128-bc07-15f6ea6db31e" />
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 <img width="791" height="519" alt="imagen" src="https://github.com/user-attachments/assets/718e1f7e-b1fe-477c-9a62-6a70ae913e25" />
 
